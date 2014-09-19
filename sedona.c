@@ -1,3 +1,13 @@
+/*
+*   Copyright (c) 2014, Vincent Wang
+*
+*   This source code is released for free distribution under the terms of the
+*   GNU General Public License.
+*
+*   This module contains functions for parsing and scanning C, C++ and Java
+*   source files.
+*/
+
 /* INCLUDE FILES */
 #include <stdio.h>
 #include "general.h"    /* always include first */
